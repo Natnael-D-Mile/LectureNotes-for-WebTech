@@ -12,27 +12,27 @@ CSS selectors are a fundamental part of Cascading Style Sheets (CSS) that allow 
 - Allows you to select elements based on their assigned class attribute.
 - Example: **`.my-class`** selects all elements with the class "my-class".
 
-## ID Selectors:
+## 3. ID Selectors:
 
 - Selects a single element based on its unique ID attribute.
 - Example: **`#my-id`** selects the element with the ID "my-id".
 
-## Attribute Selectors:
+## 4. Attribute Selectors:
 
 - Matches elements based on their attributes or attribute values.
 - Example: **`[type="submit"]`** selects all elements with the attribute **`type`** set to "submit".
 
-## Pseudo-Classes:
+## 5. Pseudo-Classes:
 
 - Selects elements based on a certain state or position within the document.
 - Example: **`:hover`** selects an element when the user hovers over it.
 
-## Descendant Selectors:
+## 6. Descendant Selectors:
 
 - Selects elements that are descendants of another element.
 - Example: **`ul li`** selects all **`<li>`** elements that are descendants of a **`<ul>`** element.
 
-## Combinators:
+## 7. Combinators:
 
 - Allows you to combine selectors to create more specific targeting.
 - Examples:
