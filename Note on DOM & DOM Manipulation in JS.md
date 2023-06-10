@@ -410,3 +410,4 @@ e.g.
 Finally, the **`removeChild()`** method is called on the parent element, passing the child element as the argument. This removes the child element from the parent node, effectively removing it from the DOM.
 
 </aside>
+Reference: Asabeneh/30-Days-Of-JavaScript: 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. (github.com)
