@@ -75,7 +75,7 @@ Getting HTML elements
 
 **a) Getting HTML elements by id**
 
-→ is the easiest way to find an HTML element
+→ is the easiest way to find an HTML element.
 
 →***getElementsById()*** targets a single HTML element
 
