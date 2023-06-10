@@ -54,7 +54,7 @@ Getting HTML elements
 - by tag name
 - by using querySelector methods
 
-*The code below has four h1 elements. Let us see the different methods to access the h1 elements.*
+*The code below has 4 heading elements (3 h2 & 1 h3). Let us see the different methods to access the heading elements.*
 
 ```jsx
 <!DOCTYPE html>
